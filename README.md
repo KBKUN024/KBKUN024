@@ -1,17 +1,16 @@
 ## Hi there 👋 I'm KBKUN024,
 ### 😊 If you like one of my repository,please give me a star!🌟
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=KBKUN024&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KBKUN024&theme=aura&hide_border=true" width="50%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KBKUN024&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
+<div align="left">   
+  <img src="https://github-readme-stats.vercel.app/api?username=KBKUN024&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" width="50%" />
+   
+  <span>&nbsp;&nbsp;&nbsp;</span> <img src="https://github-readme-streak-stats.herokuapp.com/?user=KBKUN024&theme=shades-of-purple&hide_border=true" width="50%" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KBKUN024&theme=shades-of-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%"/>
 </div>
 <!-- Snake Animation -->
-<div align="center">
-    
-  ![snake gif](https://github.com/KBKUN024/KBKUN024/blob/output/github-snake-dark.svg) 
+<div align="left">
+  <img src="https://github.com/KBKUN024/KBKUN024/blob/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </div>
 <!-- Tech Stack -->
-## 
 <h2> 💻 Tech Stack ⚡</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
