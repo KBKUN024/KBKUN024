@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm KBKUN024,
-### 😊 If you like one of my repository,please give me a star!🌟
+### 😊 If you like one of my repositories,please give me a star!🌟
 <div align="left">   
   <img src="https://github-readme-stats.vercel.app/api?username=KBKUN024&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" width="50%" />
    
