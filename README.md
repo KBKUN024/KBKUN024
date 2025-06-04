@@ -35,5 +35,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/axios/axios-plain-wordmark.svg" alt="axios" width="45" height="45"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/swiper/swiper-original.svg" alt="swiper" width="45" height="45"/>  
-<img src="https://github.com/devicons/devicon/blob/master/icons/lodash/lodash-original.svg" alt="lodash" width="45" height="45"/>   
+<img src="https://github.com/devicons/devicon/blob/master/icons/lodash/lodash-original.svg" alt="lodash" width="45" height="45"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" alt="django" width="45" height="45"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" alt="flask" width="45" height="45"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" alt="fastapi" width="45" height="45"/>
 </p>
