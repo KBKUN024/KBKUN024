@@ -24,7 +24,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original-wordmark.svg" alt="nuxt" width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/quasar/quasar-original.svg" alt="quasar" width="45" height="45"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/vuetify/vuetify-original.svg" alt="vuetify" width="45" height="45"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/vitest/vitest-original.svg" alt="vitest" width="45" height="45"/>   
+<img src="https://github.com/devicons/devicon/blob/master/icons/vitest/vitest-original.svg" alt="vitest" width="45" height="45"/>       
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="45" height="45"/>  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="sass" width="45" height="45" /> 
