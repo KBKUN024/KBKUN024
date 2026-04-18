@@ -12,4 +12,106 @@
 </div>
 <!-- Tech Stack -->
 <h2> 💻 Tech Stack ⚡</h2>
-<p align="left"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/><img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" alt="jquery" width="45" height="45"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" alt="VueJS" width="45" height="45"/><img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" alt="Vite" width="45" height="45"/><img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original-wordmark.svg" alt="nuxt" width="45" height="45"/><img src="https://github.com/devicons/devicon/blob/master/icons/quasar/quasar-original.svg" alt="quasar" width="45" height="45"/><img src="https://github.com/devicons/devicon/blob/master/icons/vuetify/vuetify-original.svg" alt="vuetify" width="45" height="45"/><img src="https://github.com/devicons/devicon/blob/master/icons/vitest/vitest-original.svg" alt="vitest" width="45" height="45"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="45" height="45"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45"/><img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="sass" width="45" height="45"/><img src="https://github.com/devicons/devicon/blob/master/icons/less/less-plain-wordmark.svg" alt="less" width="45" height="45"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/><img src="https://github.com/devicons/devicon/blob/master/icons/axios/axios-plain-wordmark.svg" alt="axios" width="45" height="45"/><img src="https://github.com/devicons/devicon/blob/master/icons/swiper/swiper-original.svg" alt="swiper" width="45" height="45"/><img src="https://github.com/devicons/devicon/blob/master/icons/lodash/lodash-original.svg" alt="lodash" width="45" height="45"/><img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" alt="django" width="45" height="45"/></p>
+
+<table align="center">
+<tr>
+<td align="center" width="80">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="vscode" />
+  <br>VSCode
+</td>
+<td align="center" width="80">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" width="40" height="40" alt="python" />
+  <br>Python
+</td>
+<td align="center" width="80">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="javascript" />
+  <br>JavaScript
+</td>
+<td align="center" width="80">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="typescript" />
+  <br>TypeScript
+</td>
+<td align="center" width="80">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" width="40" height="40" alt="jquery" />
+  <br>jQuery
+</td>
+<td align="center" width="80">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="react" />
+  <br>React
+</td>
+<td align="center" width="80">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" width="40" height="40" alt="VueJS" />
+  <br>Vue.js
+</td>
+</tr>
+<tr>
+<td align="center" width="80">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" width="40" height="40" alt="Vite" />
+  <br>Vite
+</td>
+<td align="center" width="80">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original-wordmark.svg" width="40" height="40" alt="nuxt" />
+  <br>Nuxt.js
+</td>
+<td align="center" width="80">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/quasar/quasar-original.svg" width="40" height="40" alt="quasar" />
+  <br>Quasar
+</td>
+<td align="center" width="80">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vuetify/vuetify-original.svg" width="40" height="40" alt="vuetify" />
+  <br>Vuetify
+</td>
+<td align="center" width="80">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vitest/vitest-original.svg" width="40" height="40" alt="vitest" />
+  <br>Vitest
+</td>
+<td align="center" width="80">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="html" />
+  <br>HTML5
+</td>
+<td align="center" width="80">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="css3" />
+  <br>CSS3
+</td>
+</tr>
+<tr>
+<td align="center" width="80">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="40" height="40" alt="sass" />
+  <br>Sass
+</td>
+<td align="center" width="80">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/less/less-plain-wordmark.svg" width="40" height="40" alt="less" />
+  <br>Less
+</td>
+<td align="center" width="80">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="mysql" />
+  <br>MySQL
+</td>
+<td align="center" width="80">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="nodejs" />
+  <br>Node.js
+</td>
+<td align="center" width="80">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="git" />
+  <br>Git
+</td>
+<td align="center" width="80">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/axios/axios-plain-wordmark.svg" width="40" height="40" alt="axios" />
+  <br>Axios
+</td>
+<td align="center" width="80">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/swiper/swiper-original.svg" width="40" height="40" alt="swiper" />
+  <br>Swiper
+</td>
+</tr>
+<tr>
+<td align="center" width="80">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/lodash/lodash-original.svg" width="40" height="40" alt="lodash" />
+  <br>Lodash
+</td>
+<td align="center" width="80">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" width="40" height="40" alt="django" />
+  <br>Django
+</td>
+</tr>
+</table>
